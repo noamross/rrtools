@@ -20,6 +20,7 @@ Draft repo for project reproducibility tools
 -   Run build scripts
 -   Produce testing artifacts
 -   Deploy - back to the repo or to an outputs/docs branch?
+-   What do we want from production environments, and what do we discard?
 
 ## Review/documentation
 
@@ -28,3 +29,7 @@ Draft repo for project reproducibility tools
 -  Actual manuscript may not be held in repo
    -   Main report can be some kind of output that contains essential figs/values
    
+## What can we learn from existing tools?
+
+-   https://www.yhat.com/products/bandit
+-   https://empiricalci.com/
