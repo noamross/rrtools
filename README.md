@@ -33,3 +33,5 @@ Draft repo for project reproducibility tools
 
 -   https://www.yhat.com/products/bandit
 -   https://empiricalci.com/
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/fd/Ghostscript_Tiger.svg)
